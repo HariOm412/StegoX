@@ -1,5 +1,5 @@
 body {
-    background-image: url('try 3.jpg');
+    background-image: url('images/try\ 3.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -16,13 +16,13 @@ textarea {
     resize: none;
 }
 
- .logo-container {
-            position: absolute;
-            top: 10px;
-            left: 10px;
-        }
-        .logo-container img {
-            width: 60px;
-            height: 60px;
-            object-fit: cover;
-        }
+.logo-container {
+     position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.logo-container img {
+    width: 65px;
+    height: 65px;
+    object-fit: cover;
+}
