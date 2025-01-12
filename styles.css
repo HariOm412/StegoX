@@ -1,0 +1,28 @@
+body {
+    background-image: url('try 3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: Black;
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.9);
+    border: none;
+    border-radius: 10px;
+}
+
+textarea {
+    resize: none;
+}
+
+ .logo-container {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+        }
+        .logo-container img {
+            width: 60px;
+            height: 60px;
+            object-fit: cover;
+        }
